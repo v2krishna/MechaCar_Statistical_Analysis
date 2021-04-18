@@ -66,12 +66,14 @@ Looking at the p value for all the manufacturing lots together is greater than 0
 The various comparable factors that MechaCar can perform against the competition would be cost, Hwy fuel efficiency, horse power (hp), maintenance cost,seating capacity,PSI, mpg,ground clearence,fuel type,safety rating etc.
 
 1. We can test the highway fuel efficiency,horse power and cost.Since these metrics are directly proportional we can justify the cost of vehicle comparing to the competition.
-2. The null hypothesis is a statement of no difference between a sample mean or proportion and a population mean or proportion. The alternative hypothesis is a contradictory to the null hypothesis.The mean of metricA from the MechaCar can be equal or different than the mean of metricA from the competition.Using the t test we can calculate the p value and depending on this p value we can reject our null hypothesis if p value is smaller than 0.05 and support the alternative hypothesis or accept the null hypothesis and reject the alternative hypothesis.
-3. Since we are comparing the means from two populations we can use two sample t test. Further as we want to know whether one population mean is greater than or less than the other, we can perform a one-tailed t-test.
-4. The following data is needed to run the statistical test
+1. The null hypothesis is a statement of no difference between a sample mean or population mean. The alternative hypothesis is a contradictory to the null hypothesis.The mean of metricA from the MechaCar can be equal or different than the mean of metricA from the competitor. Using the t test we can calculate the p value and depending on this p value we can reject our null hypothesis if p value is smaller than 0.05 and support the alternative hypothesis or accept the null hypothesis and reject the alternative hypothesis.
+1. Since we are comparing the means from two populations we can use two sample t test. Further as we want to know whether one population mean is greater than or less than the other, we can perform a one-tailed t-test.
+1. The following data is needed to run the statistical test
 	a. The mean of both samples
 	b. The standard deviation of both samples
-	c. The number of observations
+	c. The number of observations.
+	d. Boxplots will be compare the fuel effiency.
+
 
 
 
